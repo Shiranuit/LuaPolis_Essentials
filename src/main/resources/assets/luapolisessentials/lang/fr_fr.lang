@@ -1,0 +1,26 @@
+luapolisessentials.job.miner=Mineur
+luapolisessentials.job.farmer=Fermier
+luapolisessentials.job.forger=Forgeron
+luapolisessentials.job.hunter=Chasseur
+luapolisessentials.job.woodcutter=Bucheron
+luapolisessentials.job.developper=Developpeur
+luapolisessentials.job.alchemist=Alchimiste
+luapolisessentials.job.none=Aucun
+
+luapolisessentials.job.miner.desc=Le Mineur mine plus vite et obtient plus de minerai
+luapolisessentials.job.farmer.desc=Le Fermier fait pousser les plantes plus vites et en recolte plus
+luapolisessentials.job.forger.desc=Le Forgeron répare les objets sans coût d'xp et booste les armes/armures
+luapolisessentials.job.hunter.desc=Le Chasseur à un bonus de dégats  sur les entités et obtient plus d'items en les tuant
+luapolisessentials.job.woodcutter.desc=Le Bucheron coupe le bois plus vite et en recolte plus
+luapolisessentials.job.developper.desc=Le Developpeur à la capacité d'utiliser PSI
+luapolisessentials.job.alchemist.desc=L'Alchimiste crée des potions plus puissantes et qui durent plus longtemps
+luapolisessentials.job.none.desc=
+
+luapolisessentials.job.level=Niveau
+luapolisessentials.job.xp=XP
+luapolisessentials.job.points=Points
+luapolisessentials.job.lvlrequired=Niveau Requis
+
+luapolisessentials.button.confirm=Confirmer
+luapolisessentials.button.cancel=Annuler
+luapolisessentials.cantusepsi=Vous ne pouvez pas utilisé PSI si votre metier n'est pas Developpeur

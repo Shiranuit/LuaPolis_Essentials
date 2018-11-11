@@ -1,0 +1,38 @@
+luapolisessentials.job.miner=Miner
+luapolisessentials.job.farmer=Farmer
+luapolisessentials.job.forger=Forger
+luapolisessentials.job.hunter=Hunter
+luapolisessentials.job.woodcutter=Woodcutter
+luapolisessentials.job.developper=Developper
+luapolisessentials.job.alchemist=Alchemist
+luapolisessentials.job.none=None
+
+luapolisessentials.job.miner.desc=Miner as the ability to mine faster and drop more loots when mining ores
+luapolisessentials.job.farmer.desc=Farmer as the ability to grow crops faster when he is around and drop more loots when harvesting
+luapolisessentials.job.forger.desc=Forger as the ability to repair armor with no cost and upgrade armors/weapons with boosts
+luapolisessentials.job.hunter.desc=Hunter as the ability to do more damages to entities and drop more loots when killing them
+luapolisessentials.job.woodcutter.desc=Woodcutter as the ability to mine faster and drop more loots when breaking logs
+luapolisessentials.job.developper.desc=Developper as the ability to use PSI
+luapolisessentials.job.alchemist.desc=Alchemist as the ability to making potion more efficient and with more duration
+luapolisessentials.job.none.desc=
+
+luapolisessentials.job.level=Level
+luapolisessentials.job.xp=XP
+luapolisessentials.job.points=Points
+luapolisessentials.job.lvlrequired=Level Required
+
+luapolisessentials.job.ability.efficiency=Efficiency
+luapolisessentials.job.ability.looting=Looting
+luapolisessentials.job.ability.fortune=Fortune
+luapolisessentials.job.ability.strength=Strength
+luapolisessentials.job.ability.norepaircost=No Repair Cost
+luapolisessentials.job.ability.craftingboost=Item Boost
+luapolisessentials.job.ability.fastgrow=Fast Grow
+luapolisessentials.job.ability.psi=PSI
+luapolisessentials.job.ability.??=Unknown
+luapolisessentials.job.ability.powerboost=Power Boost
+luapolisessentials.job.ability.durationboost=Duration Boost
+
+luapolisessentials.button.confirm=Confirm
+luapolisessentials.button.cancel=Cancel
+luapolisessentials.cantusepsi=You can't use PSI when your job is not Developper
